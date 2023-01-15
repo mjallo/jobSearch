@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import JobOffer from "./JobOffer";
 import JobSearch from "./JobSearch";
-import QRCodeGenerator from "./QRCodeGenerator";
+//import QRCodeGenerator from "./QRCodeGenerator";
 
 function App() {
   return (
