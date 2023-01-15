@@ -1,8 +1,11 @@
 import React from "react";
+//import { Link } from "react-router-dom";
+import NavigationBar from "./NavigationBar";
 
 function JobOffer() {
   return (
     <div>
+      <NavigationBar />
       <h1>Job Offer</h1>
       <form>
         <label>
