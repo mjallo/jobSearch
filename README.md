@@ -1,2 +1,2 @@
-# jobSearch
-Created with CodeSandbox
+WIP
+Web App für Jobsuche.
