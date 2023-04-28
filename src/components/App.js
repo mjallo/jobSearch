@@ -11,6 +11,7 @@ function App() {
       <Routes>
         <Route path="/" exact element=<JobSearch /> />
         <Route path="/job-offer" element=<JobOffer /> />
+        <Route path="/job-search" element=<JobSearch /> />
       </Routes>
     </Router>
   );
